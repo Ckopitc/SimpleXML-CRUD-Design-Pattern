@@ -7,4 +7,4 @@ Example.php containts individual examples of use for PHP's SimpleXMLElement Obje
 #### Output Files
 An XML File and JSON file are generated when the PHP Code is executed.
 
-[1] cowglow.github.io/SimpleXML-CRUD-Design-Pattern "cowglow.github.io/SimpleXML-CRUD-Design-Pattern"
+[cowglow.github.io/SimpleXML-CRUD-Design-Pattern] (http://cowglow.github.io/SimpleXML-CRUD-Design-Pattern)
