@@ -1,6 +1,6 @@
 <?php
+## PHP's SimpleXMLElement CRUD Design Pattern
 
-##Channel Feed Connection (XML Parser)$output = "";
 $src = "data-created.xml";
 $json_src = "data-created.json";
 $echo = "";
